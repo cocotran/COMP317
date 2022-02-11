@@ -1,0 +1,2 @@
+['run_search.py', '../Data/d_tiles_nightmare.txt', '10', '5', 'nightmare.out']
+Estimated maximum time to solve run_search.py using strategies: ['BFS', 'DFS', 'DLS', 'IDS'] is 1600 seconds
